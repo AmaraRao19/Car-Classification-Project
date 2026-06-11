@@ -123,10 +123,6 @@ Rescaling(1./255)
 
 ---
 
-## 🏗️ Architecture Diagram
-
-(Insert your CNN architecture image here)
-
 ---
 
 ## 🧾 Classification Head
